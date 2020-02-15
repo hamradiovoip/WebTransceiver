@@ -113,7 +113,7 @@ public class BeanCanFrameManager extends BeanCanFrame implements ProtocolEventLi
 		
 		if (standalone_debugging) 
 		{
-			_host = "208.93.198.218:4569"; // "216.21.8.190:4569"; // 75.60.195.129:4569, 208.93.198.219, 86.30.239.87
+			_host = "208.93.198.218:4569"; // 75.60.195.129:4569,  
 			_username = "myiphone";
 			_password = "kd3su";
 			_callingno = "27265"; //"27372"; 7061ff6961f7 27299
